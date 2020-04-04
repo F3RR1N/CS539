@@ -4,7 +4,7 @@
 Created on Thu March  11:31:25 2020
 @author: Ryan Ferrin
 WPI CS539 spring 2020
-Team Assignment 3 problem 1.3
+Team Assignment 3 problem 2
 """
 
 import numpy as np
